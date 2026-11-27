@@ -8,9 +8,9 @@ Yeu cau:
 CAI DAT:
 1. Giai nen thu muc QLCuaHang vao C:\xampp\htdocs\
 2. Mo XAMPP Control Panel, bam Start cho Apache va MySQL.
-3. Mo http://localhost/phpmyadmin
+3. Mo http://localhost:8080/phpmyadmin
 4. Chon Import, chon file database/qlcuahang.sql, bam Import.
-5. Mo http://localhost/QLCuaHang/auth/seed_admin.php MỘT LAN de tao tai khoan mau.
+5. Mo http://localhost/htql_do-uong/QLCuaHang/auth/seed_admin.php MỘT LAN de tao tai khoan mau.
 6. XOA file auth/seed_admin.php sau khi tao tai khoan.
 7. Mo http://localhost/QLCuaHang/auth/login.php
 
